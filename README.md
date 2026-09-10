@@ -50,3 +50,21 @@ Statistics Canada monthly industry employment data.
 ### Project
 
 This repository contains the research output and supporting analysis for the Canadian Industry Rotation project.
+
+
+
+
+
+## Key Visuals
+
+### 1. Canadian Employment Rotation Index (CERI)
+
+![CERI Regime Dashboard](figures/01_CERI_Regime_Dashboard.png)
+
+### 2. Non-Overlapping Quarterly OOS Cumulative Performance
+
+![OOS Cumulative Performance](figures/02_OOS_Cumulative_Performance.png)
+
+### 3. Non-Overlapping Quarterly OOS Drawdown
+
+![OOS Drawdown Comparison](figures/03_OOS_Drawdown_Comparison.png)
